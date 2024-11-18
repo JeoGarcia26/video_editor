@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #eee;
+}
+
+#btnUpload{
+    display: block;
+    width: 150px;
+    height: 40px;
+    background-color: chartreuse;
+    border: none;
+    border-radius: 1px;
+    margin: 10px;
+}
+
+#videoId{
+    margin: 10px;
+    width: 50vw;
+}
