@@ -19,3 +19,6 @@ body{
     margin: 10px;
     width: 50vw;
 }
+#canvasID{
+    outline: none;
+}
